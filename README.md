@@ -16,6 +16,7 @@ How to commit the solutions are included in the files.
 
 ### To Submit Your Completed Challenge
 When you have completed both challenges you submit them for review by creating a Pull Request. This is done by:
+
 1. Click on the **"Pull Request"** tab found near the top.
 2. Click on **"create a pull request"** link found in the text in the box.
 3. Make sure **"compare"** branch is set to **"challenges_op0"**.
