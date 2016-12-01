@@ -13,7 +13,7 @@ Write user stories for the above web page.
 To complete this challenge you will need to add the solution to this file. To add to the file, click the file to open it then click the pencil icon to make it editable.
 
 **ENTER YOUR SOLUTION HERE***
-As a webpage user,I want to easily log into my email and password and have large headers on the page, so I can get to my own dashboard of information and be certain of what page of the website I am on.
+As a webpage user, I want to easily log into my email and password and have large headers on the page, so I can get to my own dashboard of information and be certain of what page of the website I am on.
 
 **Solution End**
 
